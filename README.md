@@ -1,6 +1,6 @@
-# SolarXchange — AI Energy Autopilot
+# Wattshift — AI Energy Autopilot
 
-Browser-based AI Energy Autopilot for UK homeowners with rooftop solar panels and home battery storage. SolarXchange forecasts 24-hour generation, demand, and time-of-use tariffs, computes a cost-optimised battery schedule using deterministic dynamic programming, and provides grounded Google Gemini explanations with an automatic offline fallback.
+Browser-based AI Energy Autopilot for UK homeowners with rooftop solar panels and home battery storage. Wattshift forecasts 24-hour generation, demand, and time-of-use tariffs, computes a cost-optimised battery schedule using deterministic dynamic programming, and provides grounded Google Gemini explanations with an automatic offline fallback.
 
 > **Disclaimer:** All forecasts and financial figures are **Simulated Estimates** for decision support only — not guaranteed savings or autonomous hardware control.
 
